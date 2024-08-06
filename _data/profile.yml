@@ -1,0 +1,58 @@
+primary_name: "Zhaowei Yu"
+secondary_name: ""
+navbar_name: "Zhaowei Yu"
+
+positions:
+- logo: /assets/images/badges/tongji.png  # Logo is optional
+  name: Postdoctoral Research Fellow, Tongji University, Shanghai, China
+
+
+email: "zhaoweiyu@tongji.edu.cn"
+# cv_link: link-to-your-cv-file
+gscholar: cBYDBhoAAAAJ
+github: zhaoweiyu-github
+# twitter: your_twitter_id
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio: >-
+  <p>
+    Welcome to the academic page of Dr. Zhaowei Yu. 
+    My research explores the mechanistic foundations and implications of transcriptional regulatory dynamics that influence cell fate determination. 
+    Over the past five years, I have concentrated on analyzing the complex co-association patterns of transcription regulators within distinct biological contexts, utilizing in-depth data analysis and advanced computational modeling. 
+    More recently, I have begun developing <strong>contextual AI models</strong> that provides fundamental basis for a <strong>comprehensive understanding and synthesis of complex transcription regulatory systems</strong> in cells.
+  </p>
+
+portrait_url: /assets/images/photos/yuzhaowei.png
+portrait_caption: >-
+  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: Ph.D. in Biology, advised by Prof. Yong Zhang
+  date: Sep. 2017 - Jun. 2022
+- name: East China University of Science and Technology
+  logo: /assets/images/badges/ecust.png
+  position: B.S. in Biology Science
+  date: Aug. 2013 - July. 2017
+
+experience:
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: Postdoctoral Research Fellow, Yong Zhang Lab
+  date: July. 2022 - Now
+
+
+awards:
+- name: <strong>Postdoctoral Innovation Talents Support Program (博新计划)</strong>
+  date: 2023
+- name: Guanghe Fund C Program (AI for Science)
+  date: 2023
+- name: Shanghai Super Postdoctoral Incentive Plan
+  date: 2022
+- name: China Postdoctoral Science Foundation
+  date: 2022

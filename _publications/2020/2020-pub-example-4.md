@@ -6,7 +6,7 @@ pub:            "<strong>Genome Biology</strong>"
 pub_date:       "2020"
 abstract: >-
   In this study, we develop ncHMR detector, the first computational framework to predict non-classical functions and cofactors of a given HMR, based on ChIP-seq data mining.
-cover:          /assets/images/covers/ncHMR_detector.png
+cover:          /assets/images/covers/GB2020.png
 authors:
 - Hu S*
 - Huo D* 

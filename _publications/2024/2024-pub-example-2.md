@@ -6,7 +6,7 @@ pub:            "<strong>Nature Communications</strong>"
 pub_date:       "2024"
 abstract: >-
   In this work, we introduce PSPire, a machine learning predictor that incorporates both residue-level and structure-level features for the precise prediction of PSPs.
-cover:          /assets/images/covers/PSPire.png
+cover:          /assets/images/covers/NC2024B.png
 authors:
 - Hou S
 - Hu J

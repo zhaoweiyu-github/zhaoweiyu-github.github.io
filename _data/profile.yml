@@ -43,11 +43,17 @@ education:
 experience:
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
+  position: Associate Professor, Department of Bioinformatics, School of Life Science and Technology
+  date: Mar. 2025 - Now
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
   position: Postdoctoral Research Fellow, Yong Zhang Lab
-  date: July. 2022 - Now
+  date: July. 2022 - Mar, 2025
 
 
 awards:
+- name: NSFC</strong>
+  date: 2024
 - name: <strong>Postdoctoral Innovation Talents Support Program (博新计划)</strong>
   date: 2023
 - name: Guanghe Fund C Program (AI for Science)

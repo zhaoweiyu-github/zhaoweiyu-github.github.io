@@ -21,9 +21,9 @@ github: zhaoweiyu-github
 short_bio: >-
   <p>
     Welcome to the academic page of Dr. Zhaowei Yu. 
-    My research explores the mechanistic foundations and implications of transcriptional regulatory dynamics that influence cell fate determination. 
-    Over the past five years, I have concentrated on analyzing the complex co-association patterns of transcription regulators within distinct biological contexts, utilizing in-depth data analysis and advanced computational modeling. 
-    More recently, I have begun developing <strong>contextual AI models</strong> that provides fundamental basis for a <strong>comprehensive understanding and synthesis of complex transcription regulatory systems</strong> in cells.
+    My research focuses on deciphering the mechanistic principles and functional consequences of transcriptional regulatory dynamics that govern cell fate determination. 
+    Over the past five years, I have investigated the context-dependent co-association patterns of transcription regulators across diverse biological systems, integrating large-scale genomic data analysis with advanced computational modeling. 
+    More recently, my work has centered on developing <strong>context-aware AI models</strong> to systematically learn, interpret, and synthesize <strong>complex transcriptional regulatory programs</strong> in cells, providing a computational foundation for understanding and engineering cell-state regulation.
   </p>
 
 portrait_url: /assets/images/photos/yuzhaowei.png

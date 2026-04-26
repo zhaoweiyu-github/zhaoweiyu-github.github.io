@@ -287,50 +287,64 @@ document.querySelectorAll(".root-path-text").forEach(function(element){
 
 <div class="my-3 bg-white shadow-sm rounded-sm">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
-    <div class="px-3 pb-1">
-        
-        <div class="media py-1 ">
-            
-            <div class="mr-3 text-muted my-1">2025</div>
+    <div class="px-3 pb-1"><div class="media py-1 "><div class="mr-3 text-muted my-1">2026</div>
             <div class="media-body">
                 
-                <div class="my-1 d-flex">
+                <div class="my-1 d-flex ">
+                    <div><a href="https://github.com/TongjiZhanglab/ChromBERT">ChromBERT</a>, a pre-trained foundation model for context-specific transcription regulatory network, is online in <a href="https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00386-6">Cell Genomics<a/>.</div>
+                    <div class="ml-auto mt-auto text-muted no-break"><i>Apr 09</i></div>
+                </div>
+                
+                <div class="my-1 d-flex ">
+                    <div><a href="https://github.com/TongjiZhanglab/ChromBERT">ChromBERT-tools</a>, ChromBERT-tools: A versatile toolkit for context-specific regulatory representations of transcription regulators across different cell types, has been accessible in <a href="https://www.biorxiv.org/content/10.64898/2026.02.04.703739v1.full">bioRxiv<a/>.</div>
+                    <div class="ml-auto mt-auto text-muted no-break"><i>Feb 05</i></div>
+                </div>
+                
+            </div>
+        </div><div class="media py-1  border-top border-gray"><div class="mr-3 text-muted my-1">2025</div>
+            <div class="media-body">
+                
+                <div class="my-1 d-flex ">
                     <div><a href="https://github.com/TongjiZhanglab/ChromBERT">ChromBERT</a>, a pre-trained foundation model for context-specific transcription regulatory network, has been accessible in <a href="https://www.biorxiv.org/content/10.1101/2025.03.29.646077">bioRxiv<a/>.</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>Apr 07</i></div>
                 </div>
                 
             </div>
-        </div>
-        
-        <div class="media py-1 border-top border-gray">
-            
-            <div class="mr-3 text-muted my-1">2024</div>
+        </div><div class="media py-1  border-top border-gray"><div class="mr-3 text-muted my-1">2024</div>
             <div class="media-body">
                 
-                <div class="my-1 d-flex">
+                <div class="my-1 d-flex ">
                     <div><a href="https://github.com/TongjiZhanglab/CondSig">CondSigDetector</a>, a machine learning predictor for genomic landscape of chromatin-associated biomolecular condensate, is online in <a href="https://doi.org/10.1038/s41467-024-51426-2">Nature Communications</a>.</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>Aug 14</i></div>
                 </div>
                 
-                <div class="my-1 d-flex">
+                <div class="my-1 d-flex ">
                     <div><a href="https://github.com/TongjiZhanglab/ChromBERT">ChromBERT</a>, a pre-trained foundation model for context-specific transcription regulatory network, has been released in GitHub.</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>Aug 07</i></div>
                 </div>
                 
-                <div class="my-1 d-flex">
+                <div class="my-1 d-flex d-none news-extra">
                     <div>Passed the Final Defense of Guanghe Fund C Program, Tianjin, China.</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>May 27</i></div>
                 </div>
                 
-                <div class="my-1 d-flex">
+                <div class="my-1 d-flex d-none news-extra">
                     <div>A talk for ChromBERT at the Sixth Symposium of the Postdoctoral Innovation Talent Support Program, Chengdu, China.</div>
                     <div class="ml-auto mt-auto text-muted no-break"><i>May 25</i></div>
                 </div>
                 
             </div>
-        </div>
-        
-    </div>
+        </div><div class="text-center pt-2 pb-1 border-top border-gray">
+            <a href="#" class="small text-muted news-toggle"
+               data-expanded="false"
+               data-show-text="Show 2 more news &#9662;"
+               data-hide-text="Show less &#9652;"
+               onclick="event.preventDefault();
+                        var expanded = this.dataset.expanded === 'true';
+                        document.querySelectorAll('.news-extra').forEach(function(el){ el.classList.toggle('d-none', expanded); });
+                        this.innerHTML = expanded ? this.dataset.showText : this.dataset.hideText;
+                        this.dataset.expanded = expanded ? 'false' : 'true';">Show 2 more news &#9662;</a>
+        </div></div>
 </div>
 
 
